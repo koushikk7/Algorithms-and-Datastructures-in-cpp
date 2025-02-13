@@ -1,6 +1,6 @@
 # EADS Assignments
 
-This repository contains three tasks completed as part of my **Algorithms and Data Structures (EADS)** course during my **6th semester** at WUT. These tasks showcase my proficiency in implementing **data structures** and **algorithmic solutions** in C++.
+This repository contains three tasks completed as part of my **Algorithms and Data Structures (EADS)** course during my **6th semester (winter 2023)** at WUT. These tasks showcase my proficiency in implementing **data structures** and **algorithmic solutions** in C++.
 
 ## Project Structure
 ```
