@@ -6,20 +6,20 @@ This repository contains three tasks completed as part of my **Algorithms and Da
 ```
 Algorithms-and-Datastructures-in-cpp/
 │-- Task1/  # Implementation of Singly-Linked List
-│   ├── sequence.h
-│   ├── sequence.cpp
-│   ├── sequence_test.cpp
+│   ├── EADSLAB1.h
+│   ├── EADSLAB1.cpp
+│   ├── EADSLAB1DOCUMENTATION.pdf
 │
 │-- Task2/  # Implementation of Doubly-Linked Ring
-│   ├── ring.h
-│   ├── ring.cpp
-│   ├── ring_test.cpp
+│   ├── EADSLAB2.hpp
+│   ├── EADSLAB2.cpp
+│   ├── EADSLAB1DOCUMENTATION.pdf
 │
 │-- Task3/  # AVL Tree and Word Counter
 │   ├── avl_tree.h
-│   ├── avl_tree.cpp
+│   ├── avl_tree_test.h
 │   ├── avl_tree_test.cpp
-│   ├── word_counter.cpp
+│   ├──EADSLAB3DOCUMENTATION
 │
 │-- README.md  # This file
 ```
